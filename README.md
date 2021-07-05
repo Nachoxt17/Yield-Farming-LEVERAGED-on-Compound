@@ -1,0 +1,2 @@
++-Tutorial:_ https://youtu.be/kAnc9Stmbi8
++-NOTE:_ Since this process uses Leverage whose interest varies according to the price of the Cryptocurrency, it is recommended to use this Project only with StableCoins.
